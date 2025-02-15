@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "984084236894",
+    "project_id": "fashai-eeea8",
+    "storage_bucket": "fashai-eeea8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984084236894:android:b3b85317d8327906b302cf",
+        "android_client_info": {
+          "package_name": "com.example.flash_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984084236894-ptr5s0kqcdf1tggmu047ft4rjtejc1ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flash_ai",
+            "certificate_hash": "2d8213adc8a66655d31fc0219bc6d3407cbb6394"
+          }
+        },
+        {
+          "client_id": "984084236894-ngup46ebgn8enl7kgq85lra8brcelgem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "current_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984084236894-ngup46ebgn8enl7kgq85lra8brcelgem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984084236894-7062vu8bgu64pa45fngfqpeemp6b39sr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fash.ai.fashAi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984084236894:android:87b03f8593cd1965b302cf",
+        "android_client_info": {
+          "package_name": "com.example.flashai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984084236894-ngup46ebgn8enl7kgq85lra8brcelgem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "current_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984084236894-ngup46ebgn8enl7kgq85lra8brcelgem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984084236894-7062vu8bgu64pa45fngfqpeemp6b39sr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fash.ai.fashAi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984084236894:android:368d00c3d571e0a4b302cf",
+        "android_client_info": {
+          "package_name": "com.fash.ai.fash_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984084236894-ngup46ebgn8enl7kgq85lra8brcelgem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "current_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984084236894-ngup46ebgn8enl7kgq85lra8brcelgem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984084236894-7062vu8bgu64pa45fngfqpeemp6b39sr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fash.ai.fashAi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984084236894:android:68085b18705ad554b302cf",
+        "android_client_info": {
+          "package_name": "com.fashai.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984084236894-u035oum88oq9uo3vjdojc58c4k3r1fjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fashai.com",
+            "certificate_hash": "2d8213adc8a66655d31fc0219bc6d3407cbb6394"
+          }
+        },
+        {
+          "client_id": "984084236894-u30mlgrrouccsug1th8mcaqjqrmnqvn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fashai.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "984084236894-ngup46ebgn8enl7kgq85lra8brcelgem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "current_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984084236894-ngup46ebgn8enl7kgq85lra8brcelgem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984084236894-7062vu8bgu64pa45fngfqpeemp6b39sr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fash.ai.fashAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
